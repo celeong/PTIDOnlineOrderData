@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "supplier": "Halfen Moment Sdn. Bhd.",
+    "currency": "RM",
+    "revisionDate": "2017-04-27",
+    "sourceDocument": "MPT (2).pdf"
+  },
+  "categories": [
+    {
+      "id": "mpt-system",
+      "name": "Moment Post Tensioning (MPT) System",
+      "keyField": "partNo",
+      "items": [
+        { "partNo": "G31T15", "weightKg": null,  "dimension": null, "price": 238.00 },
+        { "partNo": "G22T15", "weightKg": 21,    "dimension": null, "price": 180.00 },
+        { "partNo": "G19T15", "weightKg": 17.2,  "dimension": null, "price": 145.00 },
+        { "partNo": "G15T15", "weightKg": 12.1,  "dimension": null, "price": 105.00 },
+        { "partNo": "G12T15", "weightKg": 9.4,   "dimension": null, "price": 81.00 },
+        { "partNo": "G7T15",  "weightKg": null,  "dimension": null, "price": 65.00 },
+        { "partNo": "G4T15",  "weightKg": null,  "dimension": null, "price": 40.00 },
+        { "partNo": "G19T13", "weightKg": 11.5,  "dimension": null, "price": 105.00 },
+        { "partNo": "G12T13", "weightKg": 6.5,   "dimension": null, "price": 65.00 },
+        { "partNo": "G7T13",  "weightKg": null,  "dimension": null, "price": 49.00 }
+      ]
+    },
+    {
+      "id": "round-system-alt",
+      "name": "Alternative Design of Round System",
+      "keyField": "partNo",
+      "items": [
+        { "partNo": "M7",  "weightKg": 3.8,  "dimension": null, "price": 33.00 },
+        { "partNo": "M12", "weightKg": 8.8,  "dimension": null, "price": 65.00 },
+        { "partNo": "M19", "weightKg": 14.5, "dimension": null, "price": 105.00 },
+        { "partNo": "M31", "weightKg": 22.4, "dimension": null, "price": 163.00 }
+      ]
+    },
+    {
+      "id": "slab-casting",
+      "name": "Slab Casting",
+      "keyField": "partNo",
+      "items": [
+        { "partNo": "S5 MOMENT 0.5", "weightKg": 3.5,  "dimension": null, "price": 28.00 },
+        { "partNo": "S3 MOMENT 0.5", "weightKg": null, "dimension": null, "price": 18.50 },
+        { "partNo": "S5 MOMENT 0.6", "weightKg": null, "dimension": null, "price": 35.00 }
+      ]
+    },
+    {
+      "id": "trumpet-plastic-cone",
+      "name": "Trumpet / Plastic Cone",
+      "keyField": "partNo",
+      "items": [
+        { "partNo": "7T15",  "weightKg": null, "dimension": null, "price": 13.00 },
+        { "partNo": "12T15", "weightKg": null, "dimension": null, "price": 13.00 },
+        { "partNo": "15T15", "weightKg": null, "dimension": null, "price": 16.50 },
+        { "partNo": "19T15", "weightKg": null, "dimension": null, "price": 18.50 },
+        { "partNo": "22T15", "weightKg": null, "dimension": null, "price": 32.50 },
+        { "partNo": "31T15", "weightKg": null, "dimension": null, "price": 38.00 },
+        { "partNo": "7T13",  "weightKg": null, "dimension": null, "price": 13.00 },
+        { "partNo": "12T13", "weightKg": null, "dimension": null, "price": 13.00 },
+        { "partNo": "15T13", "weightKg": null, "dimension": null, "price": 13.00 },
+        { "partNo": "19T13", "weightKg": null, "dimension": null, "price": 16.50 },
+        { "partNo": "22T13", "weightKg": null, "dimension": null, "price": 18.50 },
+        { "partNo": "31T13", "weightKg": null, "dimension": null, "price": 32.50 }
+      ]
+    },
+    {
+      "id": "anchor-block",
+      "name": "Anchor Block / Wedge Plate / Anchor Head",
+      "keyField": "partNo",
+      "items": [
+        { "partNo": "AB3106", "weightKg": null, "dimension": "260 x 90", "price": 330.00 },
+        { "partNo": "AB2706", "weightKg": null, "dimension": "250 x 85", "price": 289.00 },
+        { "partNo": "AB2206", "weightKg": null, "dimension": "230 x 70", "price": 213.00 },
+        { "partNo": "AB1906", "weightKg": null, "dimension": "200 x 65", "price": 160.00 },
+        { "partNo": "AB1506", "weightKg": null, "dimension": "190 x 60", "price": 127.00 },
+        { "partNo": "AB1206", "weightKg": null, "dimension": "170 x 55", "price": 97.00 },
+        { "partNo": "AB706",  "weightKg": null, "dimension": "125 x 45", "price": 50.00 },
+        { "partNo": "AB406",  "weightKg": null, "dimension": "100 x 45", "price": 30.00 },
+        { "partNo": "AB3705", "weightKg": null, "dimension": "250 x 85", "price": 300.00 },
+        { "partNo": "AB3105", "weightKg": null, "dimension": "220 x 80", "price": 230.00 },
+        { "partNo": "AB2705", "weightKg": null, "dimension": "210 x 70", "price": 190.00 },
+        { "partNo": "AB2205", "weightKg": null, "dimension": "190 x 65", "price": 139.00 },
+        { "partNo": "AB1905", "weightKg": null, "dimension": "170 x 60", "price": 111.00 },
+        { "partNo": "AB1505", "weightKg": null, "dimension": "155 x 55", "price": 86.00 },
+        { "partNo": "AB1205", "weightKg": null, "dimension": "140 x 50", "price": 67.00 },
+        { "partNo": "AB705",  "weightKg": null, "dimension": "100 x 40", "price": 34.00 },
+        { "partNo": "AB405",  "weightKg": null, "dimension": "80 x 40",  "price": 20.00 }
+      ]
+    },
+    {
+      "id": "barrel",
+      "name": "Barrel",
+      "keyField": "partNo",
+      "items": [
+        { "partNo": "05 (Single)",    "weightKg": null, "dimension": "38 x 40", "price": 3.50 },
+        { "partNo": "06 (Single)",    "weightKg": null, "dimension": "42 x 50", "price": 5.00 },
+        { "partNo": "XL 05 (Multi)",  "weightKg": null, "dimension": "42 x 50", "price": 35.00 },
+        { "partNo": "XL 06 (Multi)",  "weightKg": null, "dimension": "45 x 54", "price": 36.00 },
+        { "partNo": "Barrel OD 36/ OD38 (Wedges 23 x 37)", "weightKg": null, "dimension": null, "price": 3.50 },
+        { "partNo": "Barrel 0.6",     "weightKg": null, "dimension": "50 x 50", "price": 7.50 }
+      ]
+    },
+    {
+      "id": "wedges",
+      "name": "Wedges",
+      "keyField": "partNo",
+      "items": [
+        { "partNo": "05 (Single)",   "weightKg": null, "dimension": "26 x 35 / 23 x 37", "price": 3.50 },
+        { "partNo": "06 (Single)",   "weightKg": null, "dimension": "28 x 44 / 30 x 45", "price": 5.00 },
+        { "partNo": "XL 05 (Multi)", "weightKg": null, "dimension": "28 x 50", "price": 35.00 },
+        { "partNo": "XL 06 (Multi)", "weightKg": null, "dimension": "30 x 50", "price": 36.00 }
+      ]
+    },
+    {
+      "id": "gi-corrugated-round-duct",
+      "name": "GI Corrugated Round Duct",
+      "keyField": "partNo",
+      "items": [
+        { "partNo": "ID40",  "weightKg": null, "dimension": "40mm x 45mm x 6mts",   "price": 21.60 },
+        { "partNo": "ID45",  "weightKg": null, "dimension": "45mm x 50mm x 6mts",   "price": 22.45 },
+        { "partNo": "ID50",  "weightKg": null, "dimension": "50mm x 55mm x 6mts",   "price": 23.30 },
+        { "partNo": "ID55",  "weightKg": null, "dimension": "55mm x 60mm x 6mts",   "price": 24.60 },
+        { "partNo": "ID60",  "weightKg": null, "dimension": "60mm x 65mm x 6mts",   "price": 29.35 },
+        { "partNo": "ID65",  "weightKg": null, "dimension": "65mm x 70mm x 6mts",   "price": 32.75 },
+        { "partNo": "ID70",  "weightKg": null, "dimension": "70mm x 75mm x 6mts",   "price": 35.55 },
+        { "partNo": "ID75",  "weightKg": null, "dimension": "75mm x 80mm x 6mts",   "price": 38.35 },
+        { "partNo": "ID80",  "weightKg": null, "dimension": "80mm x 85mm x 6mts",   "price": 38.80 },
+        { "partNo": "ID85",  "weightKg": null, "dimension": "85mm x 90mm x 6mts",   "price": 43.00 },
+        { "partNo": "ID90",  "weightKg": null, "dimension": "90mm x 95mm x 6mts",   "price": 44.90 },
+        { "partNo": "ID95",  "weightKg": null, "dimension": "95mm x 100mm x 6mts",  "price": 46.75 },
+        { "partNo": "ID100", "weightKg": null, "dimension": "100mm x 105mm x 6mts", "price": 49.10 },
+        { "partNo": "ID105", "weightKg": null, "dimension": "105mm x 110mm x 6mts", "price": 60.60 },
+        { "partNo": "ID110", "weightKg": null, "dimension": "110mm x 115mm x 6mts", "price": 61.80 },
+        { "partNo": "ID115", "weightKg": null, "dimension": "115mm x 120mm x 6mts", "price": 63.05 },
+        { "partNo": "ID120", "weightKg": null, "dimension": "120mm x 125mm x 6mts", "price": 64.30 }
+      ]
+    },
+    {
+      "id": "gi-corrugated-round-duct-coupler",
+      "name": "GI Corrugated Round Duct Coupler",
+      "keyField": "partNo",
+      "items": [
+        { "partNo": "ID40",  "weightKg": null, "dimension": "40 x 45 x 200",   "price": 1.00 },
+        { "partNo": "ID45",  "weightKg": null, "dimension": "45 x 50 x 200",   "price": 1.00 },
+        { "partNo": "ID50",  "weightKg": null, "dimension": "50 x 55 x 200",   "price": 1.10 },
+        { "partNo": "ID55",  "weightKg": null, "dimension": "55 x 60 x 200",   "price": 1.10 },
+        { "partNo": "ID60",  "weightKg": null, "dimension": "60 x 65 x 200",   "price": 1.20 },
+        { "partNo": "ID65",  "weightKg": null, "dimension": "65 x 70 x 200",   "price": 1.25 },
+        { "partNo": "ID70",  "weightKg": null, "dimension": "70 x 75 x 200",   "price": 1.35 },
+        { "partNo": "ID75",  "weightKg": null, "dimension": "75 x 80 x 200",   "price": 1.40 },
+        { "partNo": "ID80",  "weightKg": null, "dimension": "80 x 85 x 200",   "price": 1.60 },
+        { "partNo": "ID85",  "weightKg": null, "dimension": "85 x 90 x 200",   "price": 1.80 },
+        { "partNo": "ID90",  "weightKg": null, "dimension": "90 x 95 x 200",   "price": 2.00 },
+        { "partNo": "ID95",  "weightKg": null, "dimension": "95 x 100 x 200",  "price": 2.30 },
+        { "partNo": "ID100", "weightKg": null, "dimension": "100 x 105 x 200", "price": 2.50 },
+        { "partNo": "ID105", "weightKg": null, "dimension": "105 x 110 x 200", "price": 2.80 },
+        { "partNo": "ID110", "weightKg": null, "dimension": "110 x 115 x 200", "price": 3.20 },
+        { "partNo": "ID115", "weightKg": null, "dimension": "115 x 120 x 200", "price": 3.50 },
+        { "partNo": "ID120", "weightKg": null, "dimension": "120 x 125 x 200", "price": 3.60 },
+        { "partNo": "ID125", "weightKg": null, "dimension": "125 x 130 x 200", "price": 3.80 }
+      ]
+    },
+    {
+      "id": "gi-corrugated-flat-duct",
+      "name": "GI Corrugated Flat Duct",
+      "keyField": "dimension",
+      "items": [
+        { "partNo": null, "weightKg": null, "dimension": "20 x 50 x 5800", "price": 23.40 },
+        { "partNo": null, "weightKg": null, "dimension": "20 x 60 x 5800", "price": 24.30 },
+        { "partNo": null, "weightKg": null, "dimension": "20 x 70 x 5800", "price": 25.25 },
+        { "partNo": null, "weightKg": null, "dimension": "20 x 80 x 5800", "price": 26.65 },
+        { "partNo": null, "weightKg": null, "dimension": "20 x 90 x 5800", "price": 31.80 }
+      ]
+    },
+    {
+      "id": "gi-corrugated-flat-duct-coupler",
+      "name": "GI Corrugated Flat Duct Coupler",
+      "keyField": "dimension",
+      "items": [
+        { "partNo": null, "weightKg": null, "dimension": "25 x 55 x 200", "price": 1.00 },
+        { "partNo": null, "weightKg": null, "dimension": "25 x 65 x 200", "price": 1.20 },
+        { "partNo": null, "weightKg": null, "dimension": "25 x 75 x 200", "price": 1.50 },
+        { "partNo": null, "weightKg": null, "dimension": "25 x 85 x 200", "price": 2.00 },
+        { "partNo": null, "weightKg": null, "dimension": "25 x 95 x 200", "price": 2.30 }
+      ]
+    }
+  ]
+}
